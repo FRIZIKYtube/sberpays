@@ -1,1 +1,1 @@
-# kanvupay
+# sberpays
